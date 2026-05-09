@@ -1,5 +1,11 @@
 # Didup auto-circolari
 
+[![GitHub stars](https://img.shields.io/github/stars/Balt-alt/Didup-auto-circolari?style=social)](https://github.com/Balt-alt/Didup-auto-circolari/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Balt-alt/Didup-auto-circolari?style=social)](https://github.com/Balt-alt/Didup-auto-circolari/forks)
+[![GitHub issues](https://img.shields.io/github/issues/Balt-alt/Didup-auto-circolari)](https://github.com/Balt-alt/Didup-auto-circolari/issues)
+[![Last commit](https://img.shields.io/github/last-commit/Balt-alt/Didup-auto-circolari)](https://github.com/Balt-alt/Didup-auto-circolari/commits/main)
+[![Userscript](https://img.shields.io/badge/Tampermonkey-userscript-00485b)](didup-auto-circolari.user.js)
+
 Userscript Tampermonkey per automatizzare la presa visione delle circolari su Argo/Didup.
 
 ## Cosa fa
